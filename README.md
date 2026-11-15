@@ -43,4 +43,4 @@ Passionate about building scalable applications, writing clean and maintainable 
 ---
 
 Reach me out: **swarajphalke555@gmail.com**  
-🔗 [Portfolio](https://swaraj-phalke.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/swaraj-phalke/) | [GitHub]((https://github.com/swarajphalke))  
+🔗 [Portfolio](https://swaraj-phalke.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/swaraj-phalke/) | [GitHub](https://github.com/swarajphalke) 
